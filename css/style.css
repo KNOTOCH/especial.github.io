@@ -156,7 +156,15 @@ transition: .3s;
 } 
 .eyes{
   background: url(img/1.jpg);
-}
+} 
+.extra{ 
+  
+  text-align: justify; 
+  color: #000000; 
+
+
+} 
+
 /*.smile{
   position: absolute; 
   width: 30px; 
